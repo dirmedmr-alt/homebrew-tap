@@ -1,6 +1,6 @@
 cask "ai-access-auditor" do
-  version "1.0.15"
-  sha256 "d736fd5bb4b3e1f9588252dc66014eddd37ce8717ed2d16414e02d1eb6db7134"
+  version "1.0.16"
+  sha256 "a8dc138f550d47ee8672d8f16a56f407574b44446cade865e1adc49613b1eee7"
 
   url "https://github.com/dirmedmr-alt/ai-access-auditor/releases/download/v#{version}/AI-Access-Auditor-#{version}.dmg"
   name "AI Access Auditor"
